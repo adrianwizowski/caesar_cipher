@@ -13,5 +13,6 @@ env/
 venv/
 
 # Other
-*.txt
+odm.txt
+slowa.txt
 *.zip
